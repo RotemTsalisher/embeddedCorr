@@ -1,0 +1,19 @@
+﻿  corrEmbedded.c
+C:\Users\PC\source\repos\corrEmbedded\corrEmbedded\corrEmbedded.c(72,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\corrEmbedded\corrEmbedded\corrEmbedded.c(74,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\corrEmbedded\corrEmbedded\corrEmbedded.c(84,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\corrEmbedded\corrEmbedded\corrEmbedded.c(86,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\corrEmbedded\corrEmbedded\corrEmbedded.c(99,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\corrEmbedded\corrEmbedded\corrEmbedded.c(101,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\corrEmbedded\corrEmbedded\corrEmbedded.c(116,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\source\repos\corrEmbedded\corrEmbedded\corrEmbedded.c(129,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\corrEmbedded\corrEmbedded\corrEmbedded.c(131,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\corrEmbedded\corrEmbedded\corrEmbedded.c(190,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\corrEmbedded\corrEmbedded\corrEmbedded.c(192,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\corrEmbedded\corrEmbedded\corrEmbedded.c(204,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\corrEmbedded\corrEmbedded\corrEmbedded.c(206,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\corrEmbedded\corrEmbedded\corrEmbedded.c(220,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\corrEmbedded\corrEmbedded\corrEmbedded.c(222,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\corrEmbedded\corrEmbedded\corrEmbedded.c(224,39): warning C4018: '>': signed/unsigned mismatch
+C:\Users\PC\source\repos\corrEmbedded\corrEmbedded\corrEmbedded.c(198): warning C4172: returning address of local variable or temporary: corr
+  corrEmbedded.vcxproj -> C:\Users\PC\source\repos\corrEmbedded\x64\Debug\corrEmbedded.exe
